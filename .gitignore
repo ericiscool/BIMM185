@@ -88,3 +88,9 @@ ENV/
 # Rope project settings
 .ropeproject
 dirtree.zip
+*.gz
+*.faa
+*.gbff
+*.dat
+*.fna
+data/*
